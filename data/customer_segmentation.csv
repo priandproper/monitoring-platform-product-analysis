@@ -1,0 +1,6 @@
+Customer_ID,Industry,Company_Size,Location,Platform_Usage_Hours,Log_Events_Per_Day,Alerts_Per_Day,Session_Replays_Per_Day
+1001,Finance,Enterprise,New York,250,3000,150,100
+1002,Healthcare,Mid-Market,Chicago,180,2500,120,80
+1003,Tech,SMB,San Francisco,120,1500,90,50
+1004,Retail,Mid-Market,Dallas,200,2000,110,70
+1005,Education,SMB,Boston,100,1000,50,30

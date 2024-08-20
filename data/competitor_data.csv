@@ -1,0 +1,5 @@
+Competitor,Feature_Set,Pricing_Model,Market_Share,Customer_Reviews_Score,Industry_Focus
+CompA,"Logging, Alerting",Subscription,25,4.3,"Tech, Finance"
+CompB,"Logging, Alerting, Session Replay",Usage-Based,35,4.7,"Healthcare, Tech"
+CompC,"Alerting, Session Replay",Freemium,15,4.1,"Finance, Education"
+CompD,"Logging, Session Replay",One-Time Payment,25,4.0,"SMBs, Retail"
